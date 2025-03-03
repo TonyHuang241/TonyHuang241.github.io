@@ -1,4 +1,4 @@
-# Tony(Zhaogang) Huang
+# ​Incoming PhD Student
 
 ### Education
 
