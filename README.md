@@ -1,11 +1,8 @@
 # ​Incoming PhD Student
 
-### Education
+## Education
+- Incoming Ph.D. candidate at School of Economics, Peking University
+- B.S.(Expected), Mathematics | Renmin University of China (_June 2025_)
+- B.A.(Expected), Finance | Renmin University of China (_June 2025_)
 
-### Working paper
-
-### Projects in progress
-
-A repository and also a personal website of Tony Huang.
-Tony(Zhaogang) Huang is currently a undergraduate student in Renmin University of China.
-His research interest is in the field of Behavioral Finance and Institutional Investor.
+## Work in Progress
